@@ -1,0 +1,41 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp4758304.jpg");
+  font-style: Initial;
+  outline: 5px white;
+
+
+}
+
+p
+{
+  margin: 40px;
+}
+
+.heading-text
+{
+  font-size: 25px;
+  text-align: center;
+  font-weight: 300;
+}
+
+.Navigation
+{
+}
+h1{
+  font-style: Initial;
+}
+
+li {
+  float: center;
+}
+
+a {
+  display: inline;
+  padding: 8px;
+  height: 500px;
+  background-color: #dddddd;
+  opacity: 0.6;
+  
+  margin: 40px;
+  text-align: center;
+}
